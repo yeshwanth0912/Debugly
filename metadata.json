@@ -1,0 +1,6 @@
+{
+  "name": "Debugly",
+  "description": "AI Code Review & Vulnerability Detection Agent with an interactive animated dashboard, security radar, and quality scoring",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
